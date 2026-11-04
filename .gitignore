@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+*.egg-info/
+.env
+
+# Kivy / Buildozer
+.buildozer/
+bin/
+*.apk
+*.aab
+.apk/
+.gradle/
+build/
+dist/
+
+# FastAPI / Uvicorn
+*.log
+.mypy_cache/
+.pytest_cache/
+
+# Systeme
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ne jamais push
+myapp/
+service/
