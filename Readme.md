@@ -17,7 +17,7 @@ Au lieu d'un simple quiz avec un pourcentage, c'est devenu un jeu de conquête:
 - **Système de points**: 10/15/20 selon difficulté
 - **Règle 80%**: Il faut 80% pour conquérir un continent et débloquer le suivant
 - **Mélange des choix**: Les réponses sont mélangées à chaque partie
-- **Règle pédagogique**: Au lieu de "Erreur: ...", on affiche "💡 Règle: ..." (ex: "He/She/It + doesn't")
+- **Règle pédagogique**: Au lieu de "Erreur: ...", on affiche " Règle: ..." (ex: "He/She/It + doesn't")
 - **Bug trouvé en tant que testeuse**: Q7 Afrique `He __ not like vary` avait une double négation + faute de frappe, corrigé en `He ___ like vary rice`
 
 ### Stack
